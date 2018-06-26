@@ -1,0 +1,9 @@
+c:\users\emad\documents\visual studio 2017\Projects\RegularExpressionTester\RegularExpressionTester\bin\Debug\RegularExpressionTester.exe.config
+c:\users\emad\documents\visual studio 2017\Projects\RegularExpressionTester\RegularExpressionTester\bin\Debug\RegularExpressionTester.exe
+c:\users\emad\documents\visual studio 2017\Projects\RegularExpressionTester\RegularExpressionTester\bin\Debug\RegularExpressionTester.pdb
+c:\users\emad\documents\visual studio 2017\Projects\RegularExpressionTester\RegularExpressionTester\obj\Debug\RegularExpressionTester.csprojResolveAssemblyReference.cache
+c:\users\emad\documents\visual studio 2017\Projects\RegularExpressionTester\RegularExpressionTester\obj\Debug\RegularExpressionTester.Form1.resources
+c:\users\emad\documents\visual studio 2017\Projects\RegularExpressionTester\RegularExpressionTester\obj\Debug\RegularExpressionTester.Properties.Resources.resources
+c:\users\emad\documents\visual studio 2017\Projects\RegularExpressionTester\RegularExpressionTester\obj\Debug\RegularExpressionTester.csproj.GenerateResource.Cache
+c:\users\emad\documents\visual studio 2017\Projects\RegularExpressionTester\RegularExpressionTester\obj\Debug\RegularExpressionTester.exe
+c:\users\emad\documents\visual studio 2017\Projects\RegularExpressionTester\RegularExpressionTester\obj\Debug\RegularExpressionTester.pdb
